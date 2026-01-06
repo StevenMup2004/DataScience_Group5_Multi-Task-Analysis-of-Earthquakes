@@ -29,7 +29,10 @@ The project follows a standard data science workflow, from data preprocessing an
 
 ## Dataset
 
-The dataset is collected from publicly available earthquake records from USGS
+The dataset is collected from publicly available earthquake records from USGS.
+
+**Dataset link:**  
+https://drive.google.com/file/d/1InMHffPETMGtFYCuY2X8Px4U-aEia112/view?usp=sharing
 
 ## Tasks Implemented
 
